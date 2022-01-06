@@ -1,0 +1,181 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+  
+}
+section{
+    padding:70px;
+}
+.container {
+        width: 1170px;
+        overflow: hidden;
+        padding-right:15px;
+        padding-left:15px;
+        margin:auto;
+        
+}
+.HeaderWright{
+    width: 48%;
+    float: left;
+    border-left: 7px solid tomato;
+    height: 157px;
+
+}
+.HeaderImg{
+    width: 50%;
+    float: right;
+}
+.HeaderImg img{
+    width: 79%;
+}
+.HeaderWright h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.orange{
+    color: orange;
+}
+
+
+.HeaderWright p {
+    width: 420px;
+    margin-bottom: 25px;
+}
+.HeaderWright a {
+    text-decoration: none;
+    background-image: linear-gradient(
+45deg, orange, tomato);
+    padding: 10px;
+    color: white;
+    font-family: serif;
+    font-weight: 700;
+}
+.scoll{
+margin-top: 25px;
+}
+
+.MeinMisson {
+    width: 340px;
+    margin: auto;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+
+.MissonSingle {
+    width: 290px;
+    background: beige;
+    overflow: hidden;
+    padding: 26px;
+    border-radius: 25px;
+    float: left;
+    margin-right: 35px
+}
+.MissonSingle img{
+    width: 60%;
+}
+.MissonSingle h3{
+        margin-top: 5px;
+        margin-bottom: 10px;
+}
+
+.SecondBack{
+    background-color: #ffdfa5;
+}
+.ThirdBack{
+    background-color: #ffcece;
+}
+
+
+
+.TremImg{
+    width: 40%;
+    float: left;
+}
+.TremImg img{
+    width: 85%;
+}
+
+.TremWright{
+    width: 60%;
+    float: right;
+    margin-top: 65px;
+}
+
+.TremWright h1 {
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+
+.orange{
+    color: orange;
+}
+
+
+.HeTremWrightaderWright p {
+    width: 420px;
+    margin-bottom: 25px;
+}
+.TremWright a {
+    text-decoration: none;
+    background-image: linear-gradient(
+45deg, orange, tomato);
+    padding: 10px;
+    color: white;
+    font-family: serif;
+    font-weight: 700;
+}
+.TremWright p{
+    margin-bottom: 50px;
+}
+
+
+.ProjectWright {
+    width: 50%;
+    float: left;
+}
+.ProjectImg {
+    width: 50%;
+    float: right;
+}
+.ProjectImg img{
+    width: 70%;
+}
+.ProjectWright h1 {
+    font-size: 30px;
+    line-height: 45px;
+}
+.ProjectWright a{
+    text-decoration: none;
+    background-image: linear-gradient(
+45deg, orange, tomato);
+    padding: 10px;
+    color: white;
+    font-family: serif;
+    font-weight: 700;
+}
+.ProjectWright p {
+    margin-top: 59px;
+    width: 480px;
+    margin-bottom: 40px;
+}
+.MyFooter{
+background: black;
+}
+
+.footWapper h1 {
+    width: 200px;
+    margin: auto;
+    color: white;
+    padding-top: 25px;
+}
+
+.footWapper p{
+    width: 300px;
+    margin: auto;
+    color: white;
+    padding-bottom: 25px;
+}
