@@ -58,6 +58,17 @@ section{
 margin-top: 25px;
 }
 
+
+
+
+
+
+
+
+
+
+
+
 .MeinMisson {
     width: 340px;
     margin: auto;
@@ -91,6 +102,13 @@ margin-top: 25px;
 
 
 
+
+
+
+
+
+
+
 .TremImg{
     width: 40%;
     float: left;
@@ -115,6 +133,15 @@ margin-top: 25px;
 }
 
 
+
+
+
+
+
+
+
+
+
 .HeTremWrightaderWright p {
     width: 420px;
     margin-bottom: 25px;
@@ -131,6 +158,12 @@ margin-top: 25px;
 .TremWright p{
     margin-bottom: 50px;
 }
+
+
+
+
+
+
 
 
 .ProjectWright {
@@ -162,20 +195,57 @@ margin-top: 25px;
     width: 480px;
     margin-bottom: 40px;
 }
+
+
+
+
+
+
+.AboutImg {
+    width: 45%;
+    float: left;
+}
+.AboutImg img {
+    width: 100%;
+}
+.AboutWright {
+    width: 50%;
+    float: right;
+}
+.AboutWright h1{
+margin-bottom: 41px;
+margin-top: 42px;
+}
+.AboutWright h4 {
+    line-height: 36px;
+}
+.AboutWright a{
+    text-decoration: none;
+    background-image: linear-gradient(
+45deg, orange, tomato);
+    padding: 10px;
+    color: white;
+    font-family: serif;
+    font-weight: 700;
+}
+
+
+
+
+
 .MyFooter{
-background: black;
+    background: black;
 }
-
-.footWapper h1 {
-    width: 200px;
-    margin: auto;
-    color: white;
-    padding-top: 25px;
+ .footWapper h1 {
+        width: 200px;
+        margin: auto;
+        color: white;
+        padding-top: 25px;
 }
-
+    
 .footWapper p{
-    width: 300px;
-    margin: auto;
-    color: white;
-    padding-bottom: 26px;
+        width: 300px;
+        margin: auto;
+        color: white;
+        padding-bottom: 26px;
 }
